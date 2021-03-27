@@ -1,0 +1,16 @@
+{
+  "name": "parcel-starter-simple",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "dev": "parcel index.html --open --port 2020",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
